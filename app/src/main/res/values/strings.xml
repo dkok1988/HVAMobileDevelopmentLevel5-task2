@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mad Level 5 Task 2</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="game_backlog_fragment_label">Game Backlog</string>
+    <string name="add_fragment_label">Add Game</string>
+
+    <string name="action_delete_backlog">Delete Backlog</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="platform">Platform</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release: %1s</string>
+</resources>
